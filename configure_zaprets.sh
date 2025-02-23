@@ -72,7 +72,6 @@ uci add_list dhcp.cfg01411c.server='/*.clash.com/127.0.0.1#5056'
 uci add_list dhcp.cfg01411c.server='/*.clashofclans.com/127.0.0.1#5056'
 uci add_list dhcp.cfg01411c.server='/*.x.ai/127.0.0.1#5056'
 uci add_list dhcp.cfg01411c.server='/*.grok.com/127.0.0.1#5056'
-uci add_list dhcp.cfg01411c.server='/*.github.com/127.0.0.1#5056'
 uci commit dhcp
 
 echo "Add unblock ChatGPT..."
